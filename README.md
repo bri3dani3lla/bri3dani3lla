@@ -55,7 +55,7 @@ When I'm not coding, I'm exploring creativity through fashion, music, and new ex
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/daniella-bridget-nagginda/
+- LinkedIn: https://www.linkedin.com/in/daniella-b-nagginda/
 - GitHub: https://github.com/bri3dani3lla
 - Email: briedaniella927@gmail.com 
 
