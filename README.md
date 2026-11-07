@@ -43,6 +43,8 @@ Exploring backend development, APIs, and artificial intelligence while strengthe
 
 ## 📌 Featured Projects
 
+-NyondoStock – A hardware store management system built to simplify day-to-day business operations, including inventory tracking, sales management, supplier credit, deposit management and business reporting.
+
 Coming soon... 👀
 
 ## 🌱 Beyond Code
