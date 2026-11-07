@@ -36,7 +36,7 @@ Exploring backend development, APIs, and artificial intelligence while strengthe
 
 ## 🚀 Currently Building & Learning
 
-- Building projects that challenge me to think like a software engineer
+- Building projects that challenge me to think like a full-stack software engineer
 - Exploring backend development and API design
 - Discovering practical ways AI can enhance software solutions
 - Improving my problem-solving skills one bug at a time
@@ -55,7 +55,7 @@ When I'm not coding, I'm exploring creativity through fashion, music, and new ex
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/daniella-b-nagginda/
+- LinkedIn: https://www.linkedin.com/in/daniella-b-nagginda-8b288b415/
 - GitHub: https://github.com/bri3dani3lla
 - Email: briedaniella927@gmail.com 
 
